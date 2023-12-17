@@ -7,7 +7,7 @@
 ![Myzlle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myzlle&show_icons=true&theme=radical)
 
 ### Tecnologias que estou treinando.
-🚀 Skills ::(Training these languages) ::
+🚀 Aprendendo Novas Linguagens ::(Training these languages) ::
 
 <div style="display: inline_block"><br/>
  
